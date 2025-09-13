@@ -1,0 +1,4 @@
+#!/bin/bash
+echo -e "Enter Name: \c"
+read name
+echo $name
